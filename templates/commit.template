@@ -1,0 +1,20 @@
+# <Describe your changes in a detailed way>
+#
+#
+# Fixes #<issues_number>
+# Submitted by: <github_id>
+# Reported by: <github_id>
+# Reviewed by: <github_id>
+# MFM after: <number> days, weeks, month.
+# Relnotes: [Yes|yes|YES]
+# 
+# After the commit message, please left one blank line between the
+# description of your changes and the rest of the commit message.
+#
+# Note: "Fixes" is the only place where is not followed by ":", because
+# we want to use a trigger from github to close the issue automatically.
+# 
+# MFM stands for MERGE FROM MASTER, and the minimun time is 14 days.
+#
+# Relnotes means if it is set, your changes will be included in the next changelog.
+#
